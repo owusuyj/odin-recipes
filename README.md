@@ -1,2 +1,2 @@
 # odin-recipes
-The recipes of a star chef!
+I have learnt how to make a repo, clone a repo, move directory rename, push etc.
